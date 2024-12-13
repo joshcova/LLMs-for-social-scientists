@@ -13,10 +13,10 @@ GitHub Repository containing replication material and code for Cova and Schmitz 
 
 This GitHub repository contains the following files:
 
-    Data files ()
-    Descriptive statistics and inter-coder reliability tests
-    Classifiers
-    ChatGPT implementation
-    Open-source LLM (Llama-3-8B-Instruct)
+1. Data files ()
+2. Descriptive statistics and inter-coder reliability tests
+3. Classifiers
+4. ChatGPT implementation
+5. Open-source LLM (Llama-3-8B-Instruct)
 
 Feel free to share, adapt and re-use!
