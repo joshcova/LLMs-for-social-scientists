@@ -15,7 +15,7 @@ GitHub Repository containing replication material and code for
 
 This GitHub repository contains the following files:
 
-1. Data files: UK Media Corpus (https://minio.la.utexas.edu/compagendas/codebookfiles/uk_media_codebook.pdf) and UK House of Commons debates (https://zenodo.org/records/1189286) 
+1. Data files: Extracted from the UK Media Corpus (https://minio.la.utexas.edu/compagendas/codebookfiles/uk_media_codebook.pdf) and UK House of Commons debates (https://zenodo.org/records/1189286) 
 2. Descriptive statistics and inter-coder reliability tests (Intercoder_reliability_statistics.ipynb)
 3. Classifiers (classifiers.ipynb)
 4. ChatGPT implementation
