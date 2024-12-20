@@ -11,7 +11,7 @@ Workshop series for advanced graduate students on how to interact with LLMs/clas
 
 GitHub Repository containing replication material and code for 
 
-**Cova and Schmitz (2024) 'A primer for the use of classifier and generative large language models in social science research'**
+**Cova and Schmitz (2024) 'A primer for the use of classifier and generative large language models in social science research'** (https://osf.io/preprints/osf/r3qng)
 
 This GitHub repository contains the following files:
 
